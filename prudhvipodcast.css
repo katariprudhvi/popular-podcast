@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    height: 40vh;
+    width: 100vw;
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    background-size: cover;
+}
+
+.heading {
+    color: white;
+    font-family: Roboto;
+    padding: 20px;
+}
+
+.bottom-container {
+    padding: 30px;
+}
+
+.container {
+    height: 180px;
+    width: 180px;
+    text-align: center;
+}
+
+.images {
+    height: 100px;
+    width: 130px;
+}
+
+.name {
+    color: #151765;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.episods {
+    color: #5a7184;
+    font-family: Roboto;
+}
+
+.puri-jagannadh-container {
+    height: 25vh;
+    width: 100vw;
+    background-color: #151765;
+    background-size: cover;
+    padding: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.puri-heading {
+    color: white;
+    font-size: 20px;
+    padding-left: 8px;
+}
+
+.puri-description {
+    color: white;
+    font-size: 15px;
+    padding-left: 8px;
+}
+
+.bottom-container {
+    padding: 20px;
+}
+
+.podcast-container {
+    background-color: white;
+    width: 65vh;
+    height: 16vh;
+    margin-bottom: 20px;
+}
+
+.podcast-heading {
+    font-size: 15px;
+    font-family: Roboto;
+    padding-left: 10px;
+    color: #151765;
+    font-weight: bold;
+}
+
+.podcast-paragraph {
+    font-size: 14px;
+    font-family: Roboto;
+    color: #5a7184;
+    padding-left: 10px;
+    font-weight: 500;
+}
+
+.podcast-minutes {
+    font-size: 14px;
+    font-family: Roboto;
+    color: #151765;
+    padding-left: 10px;
+}
+
+.back-button {
+    background-color: #151765;
+    color: white;
+    width: 80px;
+    height: 25px;
+    font-size: 13px;
+    font-weight: 500;
+    border-radius: 15px;
+
+}
